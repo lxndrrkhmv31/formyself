@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="FormatDataTime:jar">
+    <output-path>$PROJECT_DIR$/out</output-path>
+    <root id="archive" name="FormatDataTime.jar">
+      <element id="module-output" name="FormatDataTime" />
+    </root>
+  </artifact>
+</component>
